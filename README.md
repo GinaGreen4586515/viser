@@ -74,3 +74,5 @@ The web client is implemented using [React](https://react.dev/), with:
 - [vanilla-extract](https://vanilla-extract.style/) for stylesheets
 
 Thanks to the authors of these projects for open-sourcing their work!
+
+<!-- Auto-update: 2025-10-05T18:05:23.648428 -->
